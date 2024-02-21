@@ -1,0 +1,5 @@
+Dokucraft Create Deco Mod support by swimfreak aka niceguynate
+
+- Most textures and palettes derived from Create support and official Dokucraft textures
+- Coin Textures derived from Optifine coin texture and support from tdrilling (official Dokucraft relase)
+--- #27126, #27127
